@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# IMPORTANT GUIDE
 
-## Getting Started
+@theblockchaincoders
 
-First, run the development server:
+![alt text](https://www.daulathussain.com/wp-content/uploads/2023/04/crowd-funding-marketplace.jpg)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Build your own Decentralized Uniswap ERC20 liquidity Marketplace including ERC20 Token sale ICO where you can sell your crypto token, in which you can provide users to create liquidity of any 2 tokens and also find liquidity pool address on any blockchain.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Resource Final Code: [https://www.theblockchaincoders.com/sourceCode/how-to-create-liquidity-token-marketplace-including-ico-token-sale](https://www.theblockchaincoders.com/sourceCode/crowd-funding-marketplace-project-source-code)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Get Pro Blockchain Developer Course: https://www.theblockchaincoders.com/pro-nft-marketplace
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Support Creator: https://bit.ly/Support-Creator
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+All Projects Source Code: https://www.theblockchaincoders.com/SourceCode
 
-## Learn More
+Official Website: https://www.theblockchaincoders.com
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Book 1 -1 Appointment: https://bit.ly/Book-1-1-Appointment
