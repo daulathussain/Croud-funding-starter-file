@@ -1,4 +1,3 @@
-
 # Decentralized Funding: Building and Deploying a Blockchain Crowdfunding DApp
 
 Building and Deploying a Blockchain Supply Chain Management DApp
@@ -15,36 +14,38 @@ Our crowdfunding DApp enables project creators to raise capital directly from a 
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-
 - [Final Source Code](https://www.theblockchaincoders.com/sourceCode/crowd-funding-marketplace-project-source-code)
 
 #### Setup Video
-- [Final Code Setup video](https://youtu.be/DKWqBqZDh74?si=7CUfjABG3zxRC4dt)
 
-```https://code.visualstudio.com/download
-  WATCH: Setup & Demo Of Project
+- [Final Code Setup video](https://youtu.be/muskTp3wf2k?si=xVyI7YDKNFKq2HT1)
+
 ```
-
+  WATCH: Setup & Demo Of Project
+  URL: https://youtu.be/muskTp3wf2k?si=xVyI7YDKNFKq2HT1
+```
 
 #### Install Vs Code Editor
 
-```https://code.visualstudio.com/download
+```
   GET: VsCode Editor
+  URL: https://code.visualstudio.com/download
 ```
 
 #### NodeJs & NPM Version
 
-```https://nodejs.org/en/download
-  NodeJs: v18.12.1
+```
+  NodeJs: v18.17.1
   NPM: 8.19.2
+  URL: https://nodejs.org/en/download
 ```
 
 #### Clone Starter File
 
-```https://github.com/daulathussain/Airdrop-Crypto-Starter-File
-  GET: Project Starter File Download
 ```
-
+  GET: Project Starter File Download
+  URL: https://github.com/daulathussain/Croud-funding-starter-file
+```
 
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
 
@@ -54,50 +55,57 @@ If you download the final source code then you can follow the following instruct
 
 #### Setup Video
 
-```https://code.visualstudio.com/download
+```
   WATCH: Setup & Demo Of Project
+  URL: https://youtu.be/muskTp3wf2k?si=xVyI7YDKNFKq2HT1
 ```
 
 #### Final Source Code
 
-```https://www.theblockchaincoders.com/SourceCode
+```
   Download the Final Source Code
+  URL: https://www.theblockchaincoders.com/sourceCode/crowd-funding-marketplace-project-source-code
 ```
 
 #### Install Vs Code Editor
 
-```https://code.visualstudio.com/download
+```
   GET: VsCode Editor
+  URL: https://code.visualstudio.com/download
 ```
 
 #### NodeJs & NPM Version
 
-```https://nodejs.org/en/download
-  NodeJs: v18.12.1
-  NPM: 8.19.2
 ```
-
+  NodeJs: v18.17.1
+  NPM: 8.19.2
+  URL: https://nodejs.org/en/download
+```
 
 #### Test Faucets
 
-Alchemy will provide you with some free test faucets which you can transfer to your wallet address for deploying the contract
+We have many web3 providers will provide you with some free test faucets which you can transfer to your wallet address for deploying the contract
 
-```https://www.alchemy.com/faucets
+```
   Get: Free Test Faucets
+  URL: https://www.alchemy.com/faucets
+  URL: https://cloud.google.com/application/web3/faucet
 ```
 
 #### RemixID
 
 We are using RemixID for deploying the contract and generation of the ABI in the project, but you can use any other tools like Hardhat, etc.
 
-```https://remix-project.org
+```
   OPEN: RemixID
+  URL: https://remix-project.org
 ```
 
-#### Polygon Mumbai
+#### arnk/rpc
 
-```https://mumbai.polygonscan.com/
-  OPEN: Polygon Mumbai
+```
+  OPEN: ARNK.COM
+  URL: https://www.ankr.com/rpc/
 ```
 
 ## Important Links
@@ -106,11 +114,8 @@ We are using RemixID for deploying the contract and generation of the ABI in the
 - [Support Creator](https://bit.ly/Support-Creator)
 - [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
 
-
 ## Authors
 
 - [@theblockchaincoders.com](https://www.theblockchaincoders.com/)
 - [@consultancy](https://www.theblockchaincoders.com/consultancy)
 - [@youtube](https://www.youtube.com/@daulathussain)
-
-
